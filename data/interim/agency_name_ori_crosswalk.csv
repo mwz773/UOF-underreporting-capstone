@@ -1,0 +1,506 @@
+agency_name,ori,match_method
+Aberdeen Twp PD,NJ0133000,auto
+Absecon City PD,NJ0010100,auto
+Allendale PD,NJ0020100,auto
+Allenhurst PD,NJ0130100,auto
+Allentown Boro PD,NJ0130200,auto
+Alpine PD,NJ0020200,auto
+Andover Twp PD,NJ0190200,auto
+Asbury Park PD,NJ0130300,auto
+Atlantic City PD,NJ0010200,auto
+Atlantic Co Sheriffs Office,NJ0010000,auto
+Atlantic County Prosecutors Office,NJ0018900,auto
+Atlantic Highlands PD,NJ0130500,auto
+Audubon PD,NJ0040100,auto
+Avalon Boro PD,NJ0050100,auto
+Avon-By-The-Sea PD,NJ0130600,auto
+Barnegat Twp PD,NJ0153300,auto
+Barrington PD,NJ0040300,auto
+Bayonne PD,NJ0090100,auto
+Beach Haven PD,NJ0150300,auto
+Beachwood Boro PD,NJ0150400,auto
+Bedminster Twp PD,NJ0180100,auto
+Belleville PD,NJ0070100,auto
+Bellmawr PD,NJ0040400,auto
+Belmar PD,NJ0130700,auto
+Belvidere PD,NJ0210300,auto
+Bergen Co Prosecutors Office,NJ0028900,auto
+Bergen Co Sheriffs Dept,NJ0020000,auto
+Bergenfield PD,NJ0020300,auto
+Berkeley Heights PD,NJ0200100,auto
+Berkeley Twp PD,NJ0150500,auto
+Bernards Twp PD,NJ0180200,auto
+Bernardsville PD,NJ0180300,auto
+Beverly City PD,NJ0030200,auto
+Blairstown Twp PD,NJ0210400,auto
+Bloomfield PD,NJ0070200,auto
+Bloomingdale Boro PD,NJ0160100,auto
+Bogota PD,NJ0020400,auto
+Bound Brook PD,NJ0180400,auto
+Bradley Beach PD,NJ0130800,auto
+Branchburg Twp PD,NJ0180500,auto
+Brick Twp PD,NJ0150600,auto
+Bridgeton PD,NJ0060100,auto
+Bridgewater Twp PD,NJ0180600,auto
+Brielle PD,NJ0130900,auto
+Brigantine PD,NJ0010300,auto
+Brooklawn PD,NJ0040700,auto
+Burlington Co Prosecutors Office,NJ0038900,auto
+Burlington County Sheriffs Office,NJ0030000,auto
+Butler Boro PD,NJ0140300,auto
+Byram Twp PD,NJ0190400,auto
+Caldwell PD,NJ0070300,auto
+Camden Co Prosecutors Office,NJ0048900,auto
+Camden Co Sheriffs Office,NJ0040000,auto
+Camden PD,NJ0040800,auto
+Cape May City PD,NJ0050200,auto
+Cape May Co Prosecutors Office,NJ0058900,auto
+Cape May Co Sheriffs Office,NJ0050000,auto
+Carlstadt PD,NJ0020500,auto
+Carneys Point PD,NJ0171300,auto
+Carteret PD,NJ0120100,auto
+Cedar Grove PD,NJ0070500,auto
+Cherry Hill Twp PD,NJ0041200,auto
+Chesilhurst PD,NJ0040900,auto
+Chesterfield Twp PD,NJ0030700,auto
+Cinnaminson PD,NJ0030800,auto
+Clark PD,NJ0200200,auto
+Clayton PD,NJ0080100,auto
+Clementon Boro PD,NJ0041000,auto
+Cliffside Park PD,NJ0020600,auto
+Clifton PD,NJ0160200,auto
+Closter PD,NJ0020700,auto
+College Of New Jersey,NJ0111800,auto
+Collingswood PD,NJ0041100,auto
+Colts Neck PD,NJ0130400,auto
+Cranbury Twp PD,NJ0120200,auto
+Cranford PD,NJ0200300,auto
+Cresskill PD,NJ0020800,auto
+Cumberland Co Prosecutors Office,NJ0068900,auto
+Cumberland Co Sheriffs Dept,NJ0060000,auto
+Deal PD,NJ0131000,auto
+Delanco Twp PD,NJ0030900,auto
+Delaware Twp PD,NJ0100700,auto
+Delran Twp PD,NJ0031000,auto
+Demarest PD,NJ0020900,auto
+Denville PD,NJ0140800,auto
+Deptford Twp PD,NJ0080200,auto
+Division Of Fish And Wildlife,NJ0111700,auto
+Dover PD,NJ0140900,auto
+Dumont PD,NJ0021000,auto
+Dunellen PD,NJ0120300,auto
+East Brunswick Twp PD,NJ0120400,auto
+East Greenwich Twp PD,NJ0080300,auto
+East Hanover Twp PD,NJ0141000,auto
+East Newark PD,NJ0090200,auto
+East Orange PD,NJ0070600,auto
+East Rutherford PD,NJ0021200,auto
+East Windsor Twp PD,NJ0110100,auto
+Eastampton Twp PD,NJ0031100,auto
+Eatontown PD,NJ0131100,auto
+Edgewater PD,NJ0021300,auto
+Edgewater Park Twp PD,NJ0031200,auto
+Edison Twp PD,NJ0120500,auto
+Elizabeth PD,NJ0200400,auto
+Elk Twp PD,NJ0080400,auto
+Elmer Boro PD,NJ0170200,auto
+Elmwood Park PD,NJ0021100,auto
+Emerson PD,NJ0021400,auto
+Englewood Cliffs PD,NJ0021600,auto
+Englewood PD,NJ0021500,auto
+Englishtown PD,NJ0131200,auto
+Essex Co Prosecutors Office,NJ0078900,auto
+Essex Co Sheriffs Office,NJ0070000,auto
+Essex Fells PD,NJ0070700,auto
+Evesham Twp PD,NJ0031300,auto
+Ewing Twp PD,NJ0110200,auto
+Fair Haven PD,NJ0131300,auto
+Fair Lawn PD,NJ0021700,auto
+Fairfield PD,NJ0060500,auto
+Fairview PD,NJ0021800,auto
+Fanwood PD,NJ0200500,auto
+Far Hills PD,NJ0180700,auto
+Flemington PD,NJ0100900,auto
+Florence Twp PD,NJ0031500,auto
+Florham Park PD,NJ0141100,auto
+Fort Lee PD,NJ0021900,auto
+Franklin Boro PD,NJ0190600,auto
+Franklin Lakes Boro PD,NJ0022000,auto
+Franklin Twp PD,NJ0190600,auto
+Frenchtown Boro PD,NJ0101100,auto
+Galloway Twp PD,NJ0011100,auto
+Garfield PD,NJ0022100,auto
+Garwood PD,NJ0200600,auto
+Gibbsboro PD,NJ0041300,auto
+Glassboro PD,NJ0080600,auto
+Glen Ridge PD,NJ0070800,auto
+Glen Rock PD,NJ0022200,auto
+Gloucester Co Prosecutors Office,NJ0088900,auto
+Gloucester Co Sheriffs Dept,NJ0080000,auto
+Green Brook PD,NJ0180900,auto
+Greenwich Twp PD,NJ0060600,auto
+Guttenberg PD,NJ0090300,auto
+Hackensack PD,NJ0022300,auto
+Hackettstown PD,NJ0210800,auto
+Haddon Heights PD,NJ0041800,auto
+Haddon Twp PD,NJ0041600,auto
+Haddonfield PD,NJ0041700,auto
+Haledon PD,NJ0160300,auto
+Hamburg PD,NJ0190900,auto
+Hammonton PD,NJ0011300,auto
+Hanover Twp PD,NJ0141200,auto
+Harding Twp PD,NJ0141300,auto
+Hardyston Twp Police Dept,NJ0191100,auto
+Harrington Park PD,NJ0022400,auto
+Harvey Cedars Boro PD,NJ0150900,auto
+Hasbrouck Heights PD,NJ0022500,auto
+Haworth PD,NJ0022600,auto
+Hawthorne PD,NJ0160400,auto
+Hazlet Twp PD,NJ0133900,auto
+Hi-Nella PD,NJ0041900,auto
+High Bridge Boro PD,NJ0101400,auto
+Highland Park PD,NJ0120700,auto
+Highlands PD,NJ0131700,auto
+Hightstown PD,NJ0110400,auto
+Hillsborough Twp PD,NJ0181000,auto
+Hillsdale PD,NJ0022700,auto
+Hillside PD,NJ0200700,auto
+Ho-Ho-Kus PD,NJ0022800,auto
+Hoboken PD,NJ0090500,auto
+Holland Twp PD,NJ0101500,auto
+Holmdel PD,NJ0131800,auto
+Hopatcong PD,NJ0191200,auto
+Howell Twp PD,NJ0131900,auto
+Hudson Co Prosecutors Office,NJ0098900,auto
+Hudson Co Sheriffs Dept,NJ0090000,auto
+Hunterdon Co Prosecutors Office,NJ0108900,auto
+Hunterdon Co Sheriffs Dept,NJ0100000,auto
+Independence Twp PD,NJ0211200,auto
+Irvington PD,NJ0070900,auto
+Island Heights PD,NJ0151000,auto
+Jackson Twp PD,NJ0151100,auto
+Jamesburg PD,NJ0120800,auto
+Jefferson Twp PD,NJ0141400,auto
+Jersey City PD,NJ0090600,auto
+Kean University PD,NJ0202400,auto
+Keansburg PD,NJ0132100,auto
+Kearny PD,NJ0090700,auto
+Kenilworth PD,NJ0200800,auto
+Keyport PD,NJ0132200,auto
+Kinnelon Boro PD,NJ0141500,auto
+Lacey Twp PD,NJ0151200,auto
+Lakehurst Boro PD,NJ0151300,auto
+Lakewood PD,NJ0151400,auto
+Lambertville City PD,NJ0101700,auto
+Laurel Springs PD,NJ0042000,auto
+Lavallette PD,NJ0151500,auto
+Lawnside Boro PD,NJ0042100,auto
+Lawrence Twp PD,NJ0060800,auto
+Leonia PD,NJ0022900,auto
+Lincoln Park PD,NJ0141600,auto
+Linden PD,NJ0200900,auto
+Lindenwold Boro PD,NJ0042200,auto
+Linwood City PD,NJ0011400,auto
+Little Egg Harbor Twp PD,NJ0151600,auto
+Little Falls PD,NJ0160500,auto
+Little Ferry PD,NJ0023000,auto
+Little Silver PD,NJ0132300,auto
+Livingston PD,NJ0071000,auto
+Lodi PD,NJ0023100,auto
+Logan Twp PD,NJ0080900,auto
+Long Beach Twp PD,NJ0151700,auto
+Long Branch PD,NJ0132500,auto
+Long Hill Twp PD,NJ0143000,auto
+Longport PD,NJ0011500,auto
+Lopatcong Twp PD,NJ0211500,auto
+Lower Alloways Creek Twp PD,NJ0170400,auto
+Lower Twp PD,NJ0050500,auto
+Lumberton Twp PD,NJ0031800,auto
+Lyndhurst PD,NJ0023200,auto
+Madison PD,NJ0141700,auto
+Magnolia PD,NJ0042300,auto
+Mahwah Twp PD,NJ0023300,auto
+Manalapan Twp PD,NJ0132600,auto
+Manasquan PD,NJ0132700,auto
+Manchester Twp PD,NJ0151800,auto
+Mantoloking Boro PD,NJ0151900,auto
+Mantua Twp PD,NJ0081000,auto
+Manville PD,NJ0181100,auto
+Maple Shade PD,NJ0032000,auto
+Maplewood PD,NJ0071100,auto
+Margate PD,NJ0011600,auto
+Marlboro Twp PD,NJ0132800,auto
+Matawan PD,NJ0132900,auto
+Maywood PD,NJ0023400,auto
+Medford Lakes PD,NJ0032200,auto
+Medford Twp PD,NJ0032100,auto
+Mercer Co Prosecutors Office,NJ0118900,auto
+Mercer Co Sheriffs Dept,NJ0110000,auto
+Merchantville PD,NJ0042400,auto
+Metuchen PD,NJ0121000,auto
+Middle Twp PD,NJ0050600,auto
+Middlesex Boro PD,NJ0121100,auto
+Middlesex Co College PD,NJ0122600,auto
+Middlesex Co Prosecutors Office,NJ0128900,auto
+Middlesex Co Sheriffs Dept,NJ0120000,auto
+Middletown PD,NJ0133100,auto
+Midland Park PD,NJ0023500,auto
+Millburn PD,NJ0071200,auto
+Milltown PD,NJ0121200,auto
+Millville PD,NJ0061000,auto
+Monmouth Beach PD,NJ0133300,auto
+Monmouth Co Prosecutors Office,NJ0138900,auto
+Monmouth Co Sheriffs Dept,NJ0130000,auto
+Monmouth University PD,NJ013559E,auto
+Monroe Twp PD,NJ0081100,auto
+Montclair PD,NJ0071300,auto
+Montgomery Twp PD,NJ0181300,auto
+Montvale PD,NJ0023600,auto
+Montville Twp PD,NJ0142100,auto
+Moonachie PD,NJ0023700,auto
+Moorestown PD,NJ0032300,auto
+Morris Co Prosecutors Office,NJ0148900,auto
+Morris Co Sheriffs Dept,NJ0140000,auto
+Morris Plains PD,NJ0142300,auto
+Morris Twp PD,NJ0142200,auto
+Morristown PD,NJ0142400,auto
+Mount Arlington Boro PD,NJ0142600,auto
+Mount Holly PD,NJ0032400,auto
+Mount Laurel Twp PD,NJ0032500,auto
+Mount Olive Twp PD,NJ0142700,auto
+Mountain Lakes PD,NJ0142500,auto
+Mountainside PD,NJ0201000,auto
+Mt. Ephraim PD,NJ0042500,auto
+Mullica Twp PD,NJ0011700,auto
+Netcong Boro PD,NJ0142800,auto
+New Brunswick PD,NJ0121400,auto
+New Hanover Twp PD,NJ0032600,auto
+New Jersey Institute Of Technology,NJ0072700,auto
+New Jersey Transit Police,NJ0073200,auto
+New Milford PD,NJ0023800,auto
+New Providence PD,NJ0201100,auto
+Newark PD,NJNPD0000,auto
+Newton PD,NJ0191500,auto
+North Arlington PD,NJ0023900,auto
+North Bergen PD,NJ0090800,auto
+North Brunswick PD,NJ0121500,auto
+North Caldwell PD,NJ0071500,auto
+North Haledon PD,NJ0160600,auto
+North Hanover Twp PD,NJ0032700,auto
+North Plainfield PD,NJ0181400,auto
+North Wildwood City PD,NJ0050700,auto
+Northfield PD,NJ0011800,auto
+Northvale PD,NJ0024000,auto
+Norwood PD,NJ0024100,auto
+Nutley PD,NJ0071600,auto
+Oakland PD,NJ0024200,auto
+Oaklyn Boro PD,NJ0042600,auto
+Ocean City PD,NJ0050800,auto
+Ocean Co Prosecutors Office,NJ0158900,auto
+Ocean Co Sheriffs Dept,NJ0150000,auto
+Ocean Twp PD,NJ0050800,auto
+Oceanport PD,NJ0133800,auto
+Ogdensburg PD,NJ0191600,auto
+Old Bridge Twp PD,NJ0120900,auto
+Old Tappan PD,NJ0024300,auto
+Oradell PD,NJ0024400,auto
+Orange PD,NJ0071700,auto
+Palisades Park PD,NJ0024500,auto
+Palmyra Boro PD,NJ0032800,auto
+Paramus PD,NJ0024600,auto
+Park Ridge PD,NJ0024700,auto
+Parsippany-Troy Hills PD,NJ0142900,auto
+Passaic Co Prosecutors Office,NJ0168900,auto
+Passaic Co Sheriffs Dept,NJ0160000,auto
+Passaic PD,NJ0160700,auto
+Paterson PD,NJ0160800,auto
+Paulsboro PD,NJ0081400,auto
+Peapack-Gladstone PD,NJ0181500,auto
+Pennington Boro PD,NJ0110800,auto
+Penns Grove PD,NJ0170800,auto
+Pennsauken Twp PD,NJ0042700,auto
+Pequannock PD,NJ0143100,auto
+Perth Amboy PD,NJ0121600,auto
+Phillipsburg PD,NJ0211900,auto
+Pine Beach Boro PD,NJ0152200,auto
+Pine Hill PD,NJ0042800,auto
+Piscataway Twp PD,NJ0121700,auto
+Pitman PD,NJ0081500,auto
+Plainfield PD,NJ0201200,auto
+Plainsboro Twp PD,NJ0121800,auto
+Pleasantville PD,NJ0011900,auto
+Plumsted Twp PD,NJ0152300,auto
+Pohatcong PD,NJ0212000,auto
+Point Pleasant Beach PD,NJ0152500,auto
+Point Pleasant Boro PD,NJ0152400,auto
+Pompton Lakes Boro PD,NJ0160900,auto
+Princeton University Police,NJ011509E,auto
+Prospect Park Boro PD,NJ0161000,auto
+Rahway PD,NJ0201300,auto
+Ramsey PD,NJ0024800,auto
+Randolph Twp PD,NJ0143200,auto
+Readington PD,NJ0102200,auto
+Red Bank PD,NJ0134000,auto
+Ridgefield Boro PD,NJ0024900,auto
+Ridgefield Park PD,NJ0025000,auto
+Ridgewood Village PD,NJ0025100,auto
+Ringwood Boro PD,NJ0161100,auto
+River Edge PD,NJ0025200,auto
+River Vale PD,NJ0025300,auto
+Riverdale PD,NJ0143300,auto
+Riverside PD,NJ0033100,auto
+Riverton Boro PD,NJ0033200,auto
+Robbinsville Twp PD,NJ0111200,auto
+Rochelle Park PD,NJ0025400,auto
+Roseland PD,NJ0071800,auto
+Roselle PD,NJ0201400,auto
+Roselle Park PD,NJ0201500,auto
+Roxbury Twp PD,NJ0143600,auto
+Rumson PD,NJ0134200,auto
+Runnemede PD,NJ0043000,auto
+Rutherford PD,NJ0025600,auto
+Saddle Brook PD,NJ0025700,auto
+Saddle River PD,NJ0025800,auto
+Salem Co Prosecutors Office,NJ0178900,auto
+Salem Co Sheriffs Dept,NJ0170000,auto
+Salem PD,NJ0171200,auto
+Sayreville PD,NJ0121900,auto
+Scotch Plains PD,NJ0201600,auto
+Sea Bright PD,NJ0134300,auto
+Sea Girt PD,NJ0134400,auto
+Sea Isle City PD,NJ0050900,auto
+Seaside Heights PD,NJ0152600,auto
+Seaside Park PD,NJ0152700,auto
+Secaucus PD,NJ0090900,auto
+Ship Bottom Boro PD,NJ0152800,auto
+Shrewsbury PD,NJ0134500,auto
+Somerdale PD,NJ0043100,auto
+Somers Point PD,NJ0012100,auto
+Somerset Co Prosecutors Office,NJ0188900,auto
+Somerset Co Sheriffs Dept,NJ0180000,auto
+Somerville PD,NJ0181800,auto
+South Amboy PD,NJ0122000,auto
+South Bound Brook PD,NJ0181900,auto
+South Brunswick Twp PD,NJ0122100,auto
+South Hackensack PD,NJ0025900,auto
+South Orange PD,NJ0071900,auto
+South Plainfield PD,NJ0122200,auto
+South River PD,NJ0122300,auto
+South Toms River PD,NJ0152900,auto
+Sparta PD,NJ0191800,auto
+Spotswood PD,NJ0122400,auto
+Spring Lake Heights PD,NJ0134900,auto
+Spring Lake PD,NJ0134800,auto
+Stafford Twp PD,NJ0153000,auto
+Stanhope PD,NJ0191900,auto
+State Police,NJNSP2200,auto
+Stevens Institute Of Technology,NJ009149E,auto
+Stockton University,NJ0012400,auto
+Stone Harbor Boro PD,NJ0051000,auto
+Stratford Boro PD,NJ0043200,auto
+Summit PD,NJ0201800,auto
+Surf City PD,NJ0153100,auto
+Sussex Co Prosecutors Office,NJ0198900,auto
+Sussex Co Sheriffs Dept,NJ0190000,auto
+Teaneck PD,NJ0026000,auto
+Tenafly PD,NJ0026100,auto
+Tewksbury Twp PD,NJ0102400,auto
+Tinton Falls PD,NJ0133600,auto
+Toms River Twp PD,NJ0150700,auto
+Totowa Boro PD,NJ0161200,auto
+Trenton PD,NJ0111100,auto
+Tuckerton Boro PD,NJ0153200,auto
+Union Beach PD,NJ0135000,auto
+Union Co Prosecutors Office,NJ0208900,auto
+Union Co Sheriffs Office,NJ0200000,auto
+Upper Saddle River PD,NJ0026300,auto
+Ventnor PD,NJ0012200,auto
+Vernon Twp PD,NJ0192200,auto
+Verona PD,NJ0072000,auto
+Vineland PD,NJ0061400,auto
+Voorhees Twp PD,NJ0043400,auto
+Waldwick PD,NJ0026400,auto
+Wall Twp PD,NJ0135200,auto
+Wallington PD,NJ0026500,auto
+Wanaque Boro PD,NJ0161300,auto
+Warren Co Prosecutors Office,NJ0218900,auto
+Warren Co Sheriffs Dept,NJ0210000,auto
+Warren Twp PD,NJ0182000,auto
+Washington Twp PD,NJ0212100,auto
+Watchung PD,NJ0182100,auto
+Waterford Twp PD,NJ0043500,auto
+Wayne PD,NJ0161400,auto
+Weehawken PD,NJ0091100,auto
+West Amwell Twp PD,NJ0102600,auto
+West Caldwell PD,NJ0072100,auto
+West Deptford Twp PD,NJ0082000,auto
+West Long Branch PD,NJ0135300,auto
+West Milford PD,NJ0161500,auto
+West New York PD,NJ0091200,auto
+West Orange PD,NJ0072200,auto
+West Wildwood Boro PD,NJ0051300,auto
+West Windsor Twp PD,NJ0111300,auto
+Westampton Twp PD,NJ0033800,auto
+Westfield PD,NJ0202000,auto
+Westville PD,NJ0082100,auto
+Westwood PD,NJ0026700,auto
+Wharton Boro PD,NJ0143900,auto
+Wildwood Crest Boro PD,NJ0051500,auto
+Wildwood PD,NJ0051400,auto
+William Paterson University PD,NJ0161700,auto
+Willingboro PD,NJ0031700,auto
+Winfield PD,NJ0202100,auto
+Winslow Twp PD,NJ0043600,auto
+Wood-Ridge PD,NJ0026900,auto
+Woodbridge Twp PD,NJ0122500,auto
+Woodbury City PD,NJ0082200,auto
+Woodbury Heights PD,NJ0082300,auto
+Woodcliff Lake PD,NJ0026800,auto
+Woodland Park Boro PD,NJ0161600,auto
+Woodlynne PD,NJ0043700,auto
+Woodstown Boro PD,NJ0171500,auto
+Woolwich Twp PD,NJ0082400,auto
+Wyckoff Twp PD,NJ0027000,auto
+Berlin Boro PD,NJ0040500,auto_township_flag
+Berlin Twp PD,NJ0040600,auto_township_flag
+Boonton PD,NJ0140100,auto_township_flag
+Boonton Twp PD,NJ0140200,auto_township_flag
+Bordentown City PD,NJ0030300,auto_township_flag
+Bordentown Twp PD,NJ0030400,auto_township_flag
+Burlington City PD,NJ0030500,auto_township_flag
+Burlington Twp PD,NJ0030600,auto_township_flag
+Chatham Boro PD,NJ0140400,auto_township_flag
+Chatham Twp PD,NJ0140500,auto_township_flag
+Chester PD,NJ0140600,auto_township_flag
+Clinton Town PD,NJ0100500,auto_township_flag
+Clinton Twp PD,NJ0100600,auto_township_flag
+Egg Harbor City PD,NJ0010700,auto_township_flag
+Egg Harbor Twp PD,NJ0010800,auto_township_flag
+Freehold Boro PD,NJ0131500,auto_township_flag
+Freehold Twp PD,NJ0131600,auto_township_flag
+Gloucester City PD,NJ0041400,auto_township_flag
+Gloucester Twp PD,NJ0041500,auto_township_flag
+Harrison PD,NJ0090400,auto_township_flag
+Harrison Twp PD,NJ0080800,auto_township_flag
+Hopewell Twp PD,NJ0110600,auto_township_flag
+Lebanon Twp PD,NJ0101900,auto_township_flag
+Mendham Boro PD,NJ0141800,auto_township_flag
+Mendham Twp PD,NJ0141900,auto_township_flag
+Neptune City PD,NJ0133500,auto_township_flag
+Neptune Twp PD,NJ0133400,auto_township_flag
+Pemberton Boro PD,NJ0032900,auto_township_flag
+Pemberton Twp PD,NJ0033000,auto_township_flag
+Raritan PD,NJ0181600,auto_township_flag
+Raritan Twp PD,NJ0102100,auto_township_flag
+Rockaway Boro PD,NJ0143400,auto_township_flag
+Rockaway Twp PD,NJ0143500,auto_township_flag
+Springfield Twp PD,NJ0033500,auto_township_flag
+Union City PD,NJ0091000,auto_township_flag
+Union Twp PD,NJ0201900,auto_township_flag
+Princeton PD,NJ0111000,manual_override
+Montclair State College PD,NJ0072800,manual_override
+Rowan University of NJ,NJ0082600,manual_override
+Pennsville PD,NJ0170500,manual_override
+Palisades Inter. Parkway PD,NJNPIPP00,manual_override
+Bayhead Boro PD,NJ0150200,manual_override
+Oceangate Boro PD,NJ0152100,manual_override
